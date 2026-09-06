@@ -1,1 +1,10 @@
+{
+  "eventName": "SubmitStudentFile",
+  "submissionId": "SUB001",
+  "studentId": "STU001",
+  "fileName": "assignment.pdf",
+  "fileType": "pdf",
+  "fileSize": 102400,
+  "submittedAt": "2026-09-06T10:00:00Z"
+}
 
